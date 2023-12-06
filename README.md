@@ -4,25 +4,25 @@ O seguinte projeto é um sistema de registro de ponto eletrônico, tomando como 
 
 ## Layout web
 
-![Web 1](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/web1.png)
+![Web 1](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/blob/main/exemplo/web1.png)
 
-![Web 2](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/web2.png)
+![Web 2](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/web2.png)
 
-![Web 3](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/web3.png)
+![Web 3](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/web3.png)
 
-![Web 4](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/web4.png)
+![Web 4](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/web4.png)
 
-![Web 5](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/web5.png)
+![Web 5](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/web5.png)
 
-![Web 6](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/web6.png)
+![Web 6](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/web6.png)
 
-![Web 7](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/web7.png)
+![Web 7](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/web7.png)
 
 ## Layout mobile
 
-![Mobile 1](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/mobile1.png) ![Mobile 2](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/mobile2.png) ![Mobile 3](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/mobile3.png)
+![Mobile 1](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/mobile1.png) ![Mobile 2](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/mobile2.png) ![Mobile 3](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/mobile3.png)
 
-![Mobile 4](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/mobile4.png) ![Mobile 5](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/mobile5.png) ![Mobile 6](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/exemplo/mobile6.png)
+![Mobile 4](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/mobile4.png) ![Mobile 5](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/mobile5.png) ![Mobile 6](https://github.com/santosdp/Sistema-de-Registro-de-Ponto/main/exemplo/mobile6.png)
 
 ## 🚀 Começando
 
